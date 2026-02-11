@@ -1,0 +1,5 @@
+{
+  "name": "Lipid Lotto",
+  "description": "A high-stakes medical betting app where users wager on their cholesterol levels. Features an interactive artery visualizer and real-time pot tracking.",
+  "requestFramePermissions": []
+}
